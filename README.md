@@ -1,9 +1,9 @@
 # Pytorch-Deeplabv2-cityscapes
 ---------
-Deeplab_V2 (./train_cityscapes.py)
-    1. CrossEntropy Loss ~ 0.3
-    2. IOU ~ 64 on validation (unstable due to random crop in validation dataset)
-    3. CRF is NOT included
+####Deeplab_V2 (./train_cityscapes.py)
+- CrossEntropy Loss ~ 0.3
+- IOU ~ 64 on validation (unstable due to random crop in validation dataset)
+- CRF is NOT included
 
 ### Requirements
 ```
